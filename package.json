@@ -20,7 +20,9 @@
     "gs191",
     "genes",
     "NSAID",
-    "metabolism"
+    "metabolism",
+    "drug",
+    "genetics"
   ],
   "author": "Calvin Webster <calweb@gmail.com>",
   "license": "MIT",
